@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gaspariniesta.multical"
+    versionCode = "1"
+    version     = "0.0.1" >
+  <name>MultiCal</name>
+  <description>
+      Tu calculadora multiplataforma.
+  </description>
+  <author href="https://ximendurrea.com" email="gaspar@ximendurrea.com">
+      Gaspar Iniesta
+ </author>
+  <access origin="*" />
+  <plugin name="cordova-plugin-whitelist" />
+  <plugin name="cordova-plugin-vibration" />
+</widget>
